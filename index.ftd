@@ -76,7 +76,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: Harsh_Gauttam,
+secondTitle: Harsh Gauttam,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -171,8 +171,8 @@ firstTitle: I'm
 secondTitle: Harsh Gauttam,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
-secondTitle: developer
+firstTitle: Frontend
+secondTitle: Developer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
@@ -190,7 +190,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:gauttamh02004@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
